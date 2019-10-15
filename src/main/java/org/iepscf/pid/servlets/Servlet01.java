@@ -14,7 +14,7 @@ import org.iepscf.pid.DAO.fwk.*;
 /**
  * Servlet implementation class ServletTest
  */
-@WebServlet("/ServletTest")
+@WebServlet("/Servlet01")
 public class Servlet01 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	

@@ -4,11 +4,11 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
 	id="WebApp_ID" version="3.1">
   <servlet>
-    <servlet-name>ServletTest</servlet-name>
-    <servlet-class>org.iepscf.Servlet.ServletTest</servlet-class>
+    <servlet-name>Servlet01</servlet-name>
+    <servlet-class>org.iepscf.pid.servlets.Servlet01</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>ServletTest</servlet-name>
+    <servlet-name>Servlet01</servlet-name>
     <url-pattern>/bonjour</url-pattern>
   </servlet-mapping>
   
