@@ -15,13 +15,13 @@ import org.iepscf.pid.DAO.fwk.*;
  * Servlet implementation class ServletTest
  */
 @WebServlet("/ServletTest")
-public class ServletTest extends HttpServlet {
+public class Servlet01 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public ServletTest() {
+    public Servlet01() {
         super();
         // TODO Auto-generated constructor stub
     }
